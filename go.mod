@@ -14,18 +14,18 @@ require (
 	github.com/libp2p/go-addr-util v0.0.2
 	github.com/libp2p/go-conn-security-multistream v0.2.0
 	github.com/libp2p/go-eventbus v0.2.1
-	github.com/libp2p/go-libp2p-autonat v0.2.3
-	github.com/libp2p/go-libp2p-blankhost v0.1.6
-	github.com/libp2p/go-libp2p-circuit v0.2.3
+	github.com/libp2p/go-libp2p-autonat v0.3.0
+	github.com/libp2p/go-libp2p-blankhost v0.2.0
+	github.com/libp2p/go-libp2p-circuit v0.3.0
 	github.com/libp2p/go-libp2p-core v0.6.0
-	github.com/libp2p/go-libp2p-discovery v0.4.0
+	github.com/libp2p/go-libp2p-discovery v0.5.0
 	github.com/libp2p/go-libp2p-loggables v0.1.0
 	github.com/libp2p/go-libp2p-mplex v0.2.3
 	github.com/libp2p/go-libp2p-nat v0.0.6
 	github.com/libp2p/go-libp2p-netutil v0.1.0
 	github.com/libp2p/go-libp2p-noise v0.1.1
 	github.com/libp2p/go-libp2p-peerstore v0.2.6
-	github.com/libp2p/go-libp2p-swarm v0.2.7
+	github.com/libp2p/go-libp2p-swarm v0.2.8
 	github.com/libp2p/go-libp2p-testing v0.1.1
 	github.com/libp2p/go-libp2p-tls v0.1.3
 	github.com/libp2p/go-libp2p-transport-upgrader v0.3.0
@@ -41,4 +41,5 @@ require (
 	github.com/multiformats/go-multistream v0.1.1
 	github.com/stretchr/testify v1.6.1
 	github.com/whyrusleeping/mdns v0.0.0-20190826153040-b9b60ed33aa9
+	google.golang.org/protobuf v1.23.0 // indirect
 )
